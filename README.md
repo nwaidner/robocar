@@ -1,3 +1,3 @@
 # robocar
  
-C - Projekt welches ich in meinem Schhul-Abschlussjahr erstellt habe.
+C - Projekt welches ich in meinem Schul-Abschlussjahr erstellt habe.
