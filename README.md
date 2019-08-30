@@ -1,3 +1,3 @@
 # robocar
  
-C - Projekt welches ich in meinem Schul-Abschlussjahr erstellt habe.
+Arduino - Projekt welches ich in meinem Schul-Abschlussjahr erstellt habe.
